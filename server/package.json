@@ -1,0 +1,12 @@
+{
+    "name": "netwar",
+    "version": "0.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "mocha",
+      "start": "node index.js"
+    },
+    "author": "Romulus10",
+    "license": "GPL"
+  }
